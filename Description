@@ -1,0 +1,1 @@
+Contributed in a collaborative project for a local health care company to implement a database solution utilizing Entity-Relationship Diagrams (ERD) and SQL queries to support a system for scheduling, billing, and employee benefits tracking for a healthcare company 
